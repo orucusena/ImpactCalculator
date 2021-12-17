@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/StartPage">
+        <file>Paper.txt</file>
+        <file>Glass.txt</file>
+        <file>Aluminum.txt</file>
+        <file>Plastic.txt</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images.qrc</file>
+    </qresource>
+</RCC>
